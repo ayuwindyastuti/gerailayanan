@@ -91,7 +91,7 @@
 
 .testimonial-full { overflow: visible; }
 
-.testimonial-full .testi-content { -webkit-backface-visibility: hidden; }
+.testimonial-full .testi-content { -webkit-backface-visibility: hidden;  backface-visibility: hidden;}
 
 .testimonial-full .testi-content p {
 	font-size: 28px;
